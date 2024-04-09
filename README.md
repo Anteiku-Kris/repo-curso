@@ -1,2 +1,2 @@
 # repo-curso
-Repositorio para practicar con Git
+## Con este repo, practicare lo estudiado sobre git.
